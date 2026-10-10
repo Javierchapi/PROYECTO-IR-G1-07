@@ -47,7 +47,12 @@ Persona que ayuda durante los actos religiosos y las procesiones, realizando tar
 Pertiguero: Persona encargada de dirigir y coordinar al grupo de acólitos durante el servicio.
 
 Aguador: Persona encargada de repartir agua durante el servicio.
-]]></markdownProperty>
+
+Cliente: Hermandad que solicita los servicios de la empresa.
+
+Solicitud de servicio: Petición de un hermandad que indica la fecha, el horario y la cantidad de trabajadores que necesita para cada función.
+
+Presupuesto: Propuesta económica que prepara la empresa para prestar un servicio solicitado por la hermandad.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
