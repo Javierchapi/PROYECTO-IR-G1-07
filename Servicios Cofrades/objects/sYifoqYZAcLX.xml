@@ -14,7 +14,9 @@ Actualmente, la empresa gestiona los cuadrantes de forma manual y utiliza grupos
 
 Otro problema aparece cuando un trabajador avisa de que no puede asistir a un servicio. En ese caso, la empresa debe buscar a una persona que esté disponible para cubrir ese puesto. Al depender de llamadas y mensajes para comprobarlo, encontrar un sustituto resulta complicado, especialmente si queda poco tiempo para el servicio.
 
-Por tanto, la empresa requiere coordinar tres aspectos principales: los puestos que necesita cubrir, la disponibilidad de sus trabajadores y las funciones que pueden desempeñar cada uno. También necesita que cualquier cambio en la planificación se comunique de forma clara a las personas afectadas.]]></markdownProperty>
+Además de organizar al personal, la empresa necesita gestionar las solicitudes de las hermandades que requieren sus servicios. Cada hermandad debe indicar la fecha, el horario y cuántos trabajadores necesita para cada función. A partir de esta información, la empresa debe preparar un presupuesto con el coste del servicio para que la hermandad pueda revisarlo y decidir si lo acepta.
+
+Por tanto, la empresa necesita coordinar las solicitudes de las hermandades, la elaboración de presupuestos y la organización de los trabajadores. Para ello, debe tener en cuenta los puestos que necesita cubrir, la disponibilidad de su personal y las funciones que puede desempeñar cada uno. También necesita mantener una comunicación clara con los trabajadores y las hermandades para que estén informados de cualquier cambio que les afecte.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
